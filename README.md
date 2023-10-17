@@ -31,7 +31,7 @@
 - 👀 I’m interested in learning new technologies
 
 ## 📞 Contact Me
-* Email Id: neha4@gmail.com
+* Email Id: nehawakare04@gmail.com
 * LinkedIn : [Neha Wakhare](https://www.linkedin.com/in/neha-wakhare-0093b4225/)
 
 <!---
