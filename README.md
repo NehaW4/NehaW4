@@ -1,4 +1,4 @@
-<h1 align="center">#Hi 👋, I'm Neha Wakhare</h1>
+<h1 align="center">Hi 👋, I'm Neha Wakhare</h1>
 <img src="https://i.ibb.co/JrqtVPd/github-header-image-1-2.png" width="1000" height="300" />
 
 <img src="https://i.ibb.co/JrqtVPd/github-header-image-1-2.png" width="1000" height="300" />
@@ -43,6 +43,8 @@
 ## 📞 Contact Me
 * Email Id: nehawakare04@gmail.com
 * LinkedIn : [Neha Wakhare](https://www.linkedin.com/in/neha-wakhare-0093b4225/)
+*  LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-wakhare-0093b4225/)
+* Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_username/)
 
 <!---
 <br />
