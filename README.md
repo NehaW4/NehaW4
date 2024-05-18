@@ -2,7 +2,7 @@
 
 <h4 align="center">Software Engineer | Full Stack Web Developer | MCOE CS '25 </h4>
 <!--<img src="https://i.ibb.co/JrqtVPd/github-header-image-1-2.png" width="1000" height="300" />-->
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ftxinfotech.com%2Fhire-full-stack-developers%2F&psig=AOvVaw3LAi7rdO2ZgNcEZLV_6oEA&ust=1716144920297000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOC-l5Twl4YDFQAAAAAdAAAAABAR" width="1000" height="300" />
+<img src="https://www.ftxinfotech.com/wp-content/uploads/2020/03/hire-fullstack-image.png" width="1000" height="300" />
 <h3 align="center">A Full-stack developer with a strong passion for frontend and backend development. Specializing in Android and web development, I'm eager to contribute my skills to innovative projects as a Software Engineer.</h3>
 
 <br />
