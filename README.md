@@ -1,8 +1,12 @@
 <img src="https://i.ibb.co/JrqtVPd/github-header-image-1-2.png" width="1000" height="300" />
 
-<h4 align="center">UI/UX Designer | Full Stack Web Developer | MCOE CS '25 </h4>
+<h4 align="center">Software Engineer | Full Stack Web Developer | MCOE CS '25 </h4>
 <br />
+ #🌱 I’m currently learning DSA, Cloud & Django
 
+ # 💬 Ask me about Web development (MERN)
+
+# 📫 How to reach me contact.dhananjaykuber@gmail.com
 <br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NehaW4&title=Commit,Repo,Followers,Stars&row=1&column=4&theme=darkhub&margin-w=15" alt="neha" /></a> </p>
 
