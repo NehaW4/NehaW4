@@ -3,11 +3,8 @@
 <h4 align="center">Software Engineer | Full Stack Web Developer | MCOE CS '25 </h4>
 <br />
 
-Certainly! Here are the points you provided, listed one by one:
-
 - 🌱 I’m currently learning DSA, Cloud & Django.
 - 🔭 I am honing my dev and android skills.
-- 🌱 I am currently learning Python/Django
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About App development and Web Technolgies.
 - 📫 How to reach me: nehuwakhare04@gmail.com
