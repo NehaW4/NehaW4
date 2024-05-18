@@ -15,7 +15,7 @@
 
 ## 💻 Technologies I Work With
 
-* HTML: ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&label=%20&logoWidth=40)
+* HTML: ![HTML](https://img.shields.io/badge/239120?style=for-the-badge&logo=html5&logoColor=white&label=%20&logoWidth=40)
 * CSS: ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white&label=%20&logoWidth=40)
 * JavaScript: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=%20&logoWidth=40)
 * C: ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&label=%20&logoWidth=40)
