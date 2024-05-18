@@ -10,9 +10,6 @@
 - 📫 How to reach me: nehuwakhare04@gmail.com
 - ⚡ Fun fact: I love to play Badminton
 
- # 💬 Ask me about Web development (MERN)
-
-# 📫 How to reach me contact.dhananjaykuber@gmail.com
 <br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NehaW4&title=Commit,Repo,Followers,Stars&row=1&column=4&theme=darkhub&margin-w=15" alt="neha" /></a> </p>
 
