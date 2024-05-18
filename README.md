@@ -16,9 +16,10 @@
 
 <h4 align="center">Software Engineer | Full Stack Web Developer | MCOE CS '25 </h4>
 
-<div style="text-align: center;">
-    <img src="http://www.fintech.co.th/wp-content/uploads/2018/08/Full-stack-Developer.png" width="500" height="200" alt="Full Stack Developer" style="margin: 0 auto; display: block;" />
-</div>
+<p align="center"> 
+   <img align="center" src="http://www.fintech.co.th/wp-content/uploads/2018/08/Full-stack-Developer.png"/>
+</p>
+
 
 
 <h3 align="center">A Full-stack developer with a strong passion for frontend and backend development. Specializing in Android and web development, I'm eager to contribute my skills to innovative projects as a Software Engineer.</h3>
@@ -75,6 +76,7 @@
 <p align="center"> 
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaW4&layout=compact&theme=aura"/>
 </p>
+
 
 <br/>
 
