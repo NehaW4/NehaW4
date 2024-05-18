@@ -2,7 +2,7 @@
 
 <h4 align="center">Software Engineer | Full Stack Web Developer | MCOE CS '25 </h4>
 <!--<img src="https://i.ibb.co/JrqtVPd/github-header-image-1-2.png" width="1000" height="300" />-->
-<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.fintech.co.th%2Ffull-stack-developer%2F&psig=AOvVaw3LAi7rdO2ZgNcEZLV_6oEA&ust=1716144920297000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOC-l5Twl4YDFQAAAAAdAAAAABAJ" width="1000" height="300" />
+<img src="![image](https://github.com/NehaW4/NehaW4/assets/92804162/90770eed-35bb-45a4-bfbd-63bb08fffc3b)" width="1000" height="300" />
 <h3 align="center">A Full-stack developer with a strong passion for frontend and backend development. Specializing in Android and web development, I'm eager to contribute my skills to innovative projects as a Software Engineer.</h3>
 
 <br />
