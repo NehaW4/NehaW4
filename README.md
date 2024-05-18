@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning DSA, Cloud & Django.
 - 🔭 I am honing my dev and android skills.
-- 👯 I’m looking to collaborate in web dev projects
-- 💬 Ask me About App development and Web Technolgies.
+- 👯 I’m looking to collaborate in web dev projects.
 - 📫 How to reach me: nehuwakhare04@gmail.com
+- 👀 I’m interested in learning new technologies
 - ⚡ Fun fact: I love to play Badminton
 
 <br />
@@ -35,7 +35,7 @@
 
 <br/>
 
-- 👀 I’m interested in learning new technologies
+
 
 ## 📞 Contact Me
 * Email Id: nehawakare04@gmail.com
