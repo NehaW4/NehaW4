@@ -14,7 +14,7 @@
 
 <h1 align="center">Hi 👋, I'm Neha Wakhare</h1>
 
-<h4 align="center">Software Engineer | Full Stack Web Developer | MCOE CS '25 </h4>
+<h4 align="center">Software Engineer | Full Stack Web Developer | PESMCOE CS '25 </h4>
 
 <p align="center"> 
    <img align="center" src="http://www.fintech.co.th/wp-content/uploads/2018/08/Full-stack-Developer.png" width="500" height="200"/>
