@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Neha Wakhare</h1>
-<!--<img src="https://i.ibb.co/JrqtVPd/github-header-image-1-2.png" width="1000" height="300" />-->
 
 <h4 align="center">Software Engineer | Full Stack Web Developer | MCOE CS '25 </h4>
+<!--<img src="https://i.ibb.co/JrqtVPd/github-header-image-1-2.png" width="1000" height="300" />-->
+
+A Full Stack Web Developer with a passion for crafting intuitive user experiences. Specializing in Android and web development, I'm eager to contribute my skills to innovative projects as a Software Engineer.
+
 <br />
 
 - 🌱 I’m currently learning DSA, Cloud & Django.
