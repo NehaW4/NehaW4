@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha Wakhare</h1>
-<img src="https://i.ibb.co/JrqtVPd/github-header-image-1-2.png" width="1000" height="300" />
+<!--<img src="https://i.ibb.co/JrqtVPd/github-header-image-1-2.png" width="1000" height="300" />
 
 <h4 align="center">Software Engineer | Full Stack Web Developer | MCOE CS '25 </h4>
 <br />
