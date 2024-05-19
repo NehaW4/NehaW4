@@ -71,10 +71,6 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NehaW4&theme=highcontrast"/>
 </p>
 
-<p align="center">
-   <img src="https://github.com/NehaW4/NehaW4/blob/main/streak-stats.png" alt="GitHub Streak Stats"/>
-</p>
-
 <br/>
 
 <p align="center"> 
