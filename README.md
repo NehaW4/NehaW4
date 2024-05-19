@@ -67,8 +67,8 @@
 
 <br/>
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=NehaW4&theme=highcontrast" alt="GitHub Streak Stats"/>
+<p align="center"> 
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NehaW4&theme=highcontrast"/>
 </p>
 
 <br/>
