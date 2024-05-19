@@ -32,6 +32,8 @@
 - 📫 How to reach me: nehuwakhare04@gmail.com
 - 👀 I’m interested in learning new technologies
 - ⚡ Fun fact: I love to play Badminton
+- ![Profile views](https://komarev.com/ghpvc/?username=NehaW4&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ## 🤝 Connect with me
 
