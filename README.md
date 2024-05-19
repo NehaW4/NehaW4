@@ -67,7 +67,9 @@
 
 <br/>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NehaW4&theme=flag-india&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<p align="center"> 
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NehaW4&theme=highcontrast"/>
+</p>
 
 <br/>
 
