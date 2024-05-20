@@ -69,7 +69,8 @@
 <p align="center"> 
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NehaW4&theme=highcontrast"/>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NehaW4&theme=gruvbox" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=NehaW4&theme=gruvbox)](https://git.io/streak-stats)
+
 <br/>
 
 <p align="center"> 
