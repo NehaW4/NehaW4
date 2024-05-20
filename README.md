@@ -66,6 +66,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NehaW4&title=Commit,Repo,Followers,Stars&row=1&column=4&theme=darkhub&margin-w=15" alt="neha" /></a> </p>
 
 <br/>
+[![GitHub Streak](https://streak-stats.demolab.com/NehaW=DenverCoder1)](https://git.io/streak-stats)
 
 <p align="center"> 
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NehaW4&theme=highcontrast"/>
