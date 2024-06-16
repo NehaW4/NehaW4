@@ -26,8 +26,7 @@
 
 <br />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)](https://github.com/NehaW4)
-
+- 👀 GitHub profile views : [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)](https://github.com/NehaW4)
 - 🌱 I’m currently learning DSA, Cloud & Django.
 - 🔭 I am honing my dev and android skills.
 - 👯 I’m looking to collaborate in web dev projects.
