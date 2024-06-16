@@ -26,13 +26,14 @@
 
 <br />
 
-- 👀 GitHub profile views : [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)](https://github.com/NehaW4)
+- 👀 GitHub profile views :  [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)](https://github.com/NehaW4)
 - 🌱 I’m currently learning DSA, Cloud & Django.
 - 🔭 I am honing my dev and android skills.
 - 👯 I’m looking to collaborate in web dev projects.
 - 📫 How to reach me: nehuwakhare04@gmail.com
 - 👀 I’m interested in learning new technologies
 - ⚡ Fun fact: I love to play Badminton
+
   
 ## 🤝 Connect with me
 
@@ -40,6 +41,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-wakhare-0093b4225/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nehhh.04_/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nehuwakhare04)
+
 
 ## 💻 Technologies I Work With
 
