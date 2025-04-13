@@ -27,14 +27,12 @@
 <br />
 
 -  [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)](https://github.com/NehaW4)
-- 🌱 I’m currently learning DSA, Cloud & Django.
 - 🔭 I am honing my dev and android skills.
 - 👯 I’m looking to collaborate in web dev projects.
 - 📫 How to reach me: nehuwakhare04@gmail.com
 - 👀 I’m interested in learning new technologies
-- ⚡ Fun fact: I love to play Badminton
 
-  
+
 ## 🤝 Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehuwakhare04@gmail.com)
